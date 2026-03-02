@@ -1,6 +1,6 @@
 # Shelf Product Detection & Share of Shelf Analytics
 
-## Objective
+## Final Best Result: Recall => 86.2% ||| Precision => 77.2% ||| F1 => 81.4% 
 
 Improve the Recall metric of shelf product detection (baseline: 67.6%) without significantly damaging Precision, and compute Share of Shelf analytics for each product class (SKU) across a representative test shelf.
 
