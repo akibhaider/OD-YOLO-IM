@@ -1,0 +1,17 @@
+# Model weights (>100MB)
+*.pt
+runs/*/weights/*.pt
+runs/*/weights/epoch*.pt
+
+# Large archives
+dataset.zip
+
+# Training artifacts
+nohup.out
+resume_train.log
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
