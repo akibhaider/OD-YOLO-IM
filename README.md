@@ -3,6 +3,7 @@
 ## Final Best Result: Recall -> 86.2%  |  Precision -> 77.2%  |  F1 -> 81.4% 
 ## Second Best Tradeoff with 3 model ensemble learning (YOLO12x + YOLO12l + YOLO11x) with most f1-score: Recall -> 82.8%  |  Precision -> 81.1%  |  F1 -> 81.9%  
 
+## Dataset split observation (optional): Larger Class Imbalance across train-val-test split  |  Overcounting Issue and SKU mismatch  |   Stratified Dataset Split experiment Result (only on train and val set): Recall -> 88.2%  |  Precision -> 82.6%  |  F1 -> 85.4%  (not converged, small experiment on 15/150 epoch) ....... Still experiment ongoing 😃 
 
 Improve the Recall metric of shelf product detection (baseline: 67.6%) without significantly damaging Precision, and compute Share of Shelf analytics for each product class (SKU) across a representative test shelf.
 
