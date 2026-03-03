@@ -1,0 +1,386 @@
+nohup: ignoring input
+Watching for training completion...
+[16:19:28] Training running... epoch 21 done. Last:                    all         96        374      0.746      0.872      0.927      0.577
+[16:20:28] Training running... epoch 22 done. Last:                    all         96        374      0.667      0.897      0.915      0.593
+[16:21:28] Training running... epoch 23 done. Last:                    all         96        374       0.77      0.857      0.909      0.564
+[16:22:28] Training running... epoch 24 done. Last:                    all         96        374      0.798      0.911      0.935      0.587
+[16:23:28] Training running... epoch 24 done. Last:                    all         96        374      0.798      0.911      0.935      0.587
+[16:24:28] Training running... epoch 25 done. Last:                    all         96        374      0.808      0.857      0.922      0.584
+[16:25:28] Training running... epoch 26 done. Last:                    all         96        374      0.715      0.879      0.891      0.574
+[16:26:28] Training running... epoch 27 done. Last:                    all         96        374      0.723      0.879      0.924      0.565
+[16:27:28] Training running... epoch 28 done. Last:                    all         96        374      0.778      0.888      0.924      0.603
+[16:28:28] Training running... epoch 28 done. Last:                    all         96        374      0.778      0.888      0.924      0.603
+[16:29:28] Training running... epoch 29 done. Last:                    all         96        374      0.823      0.838       0.94      0.614
+[16:30:28] Training running... epoch 30 done. Last:                    all         96        374      0.785      0.848      0.914      0.592
+[16:31:28] Training running... epoch 31 done. Last:                    all         96        374      0.734      0.897      0.932      0.616
+[16:32:28] Training running... epoch 31 done. Last:                    all         96        374      0.734      0.897      0.932      0.616
+[16:33:28] Training running... epoch 32 done. Last:                    all         96        374      0.814      0.835      0.938      0.588
+[16:34:28] Training running... epoch 33 done. Last:                    all         96        374      0.784      0.871       0.94      0.604
+[16:35:28] Training running... epoch 34 done. Last:                    all         96        374      0.722      0.912      0.938      0.604
+[16:36:28] Training running... epoch 35 done. Last:                    all         96        374      0.796      0.875      0.932      0.609
+[16:37:28] Training running... epoch 35 done. Last:                    all         96        374      0.796      0.875      0.932      0.609
+[16:38:28] Training running... epoch 36 done. Last:                    all         96        374      0.757      0.886      0.945      0.609
+[16:39:28] Training running... epoch 37 done. Last:                    all         96        374      0.759      0.897      0.945      0.617
+[16:40:28] Training running... epoch 38 done. Last:                    all         96        374      0.778      0.894      0.938      0.607
+[16:41:28] Training running... epoch 38 done. Last:                    all         96        374      0.778      0.894      0.938      0.607
+[16:42:28] Training running... epoch 39 done. Last:                    all         96        374      0.746      0.931      0.937       0.63
+[16:43:29] Training running... epoch 40 done. Last:                    all         96        374      0.765      0.881      0.953      0.624
+[16:44:29] Training running... epoch 41 done. Last:                    all         96        374      0.743      0.935      0.949      0.605
+[16:45:29] Training running... epoch 41 done. Last:                    all         96        374      0.743      0.935      0.949      0.605
+[16:46:29] Training running... epoch 42 done. Last:                    all         96        374      0.777      0.935      0.955      0.633
+[16:47:29] Training running... epoch 43 done. Last:                    all         96        374      0.812      0.893      0.952      0.622
+[16:48:29] Training running... epoch 44 done. Last:                    all         96        374      0.828      0.866      0.946       0.62
+[16:49:29] Training running... epoch 45 done. Last:                    all         96        374      0.759      0.903      0.948      0.647
+[16:50:29] Training running... epoch 45 done. Last:                    all         96        374      0.759      0.903      0.948      0.647
+[16:51:29] Training running... epoch 46 done. Last:                    all         96        374      0.808      0.894       0.93      0.608
+[16:52:29] Training running... epoch 47 done. Last:                    all         96        374      0.787      0.914      0.946      0.654
+[16:53:29] Training running... epoch 48 done. Last:                    all         96        374      0.782      0.909      0.952      0.639
+[16:54:29] Training running... epoch 48 done. Last:                    all         96        374      0.782      0.909      0.952      0.639
+[16:55:29] Training running... epoch 49 done. Last:                    all         96        374      0.758      0.924      0.942      0.634
+[16:56:29] Training running... epoch 50 done. Last:                    all         96        374      0.747      0.937      0.942       0.63
+[16:57:29] Training running... epoch 51 done. Last:                    all         96        374      0.807      0.887      0.951      0.643
+[16:58:29] Training running... epoch 52 done. Last:                    all         96        374       0.81      0.934      0.956      0.649
+[16:59:29] Training running... epoch 52 done. Last:                    all         96        374       0.81      0.934      0.956      0.649
+[17:00:29] Training running... epoch 53 done. Last:                    all         96        374      0.789      0.941      0.944       0.64
+[17:01:29] Training running... epoch 54 done. Last:                    all         96        374      0.781      0.894      0.952      0.645
+[17:02:29] Training running... epoch 55 done. Last:                    all         96        374      0.773      0.936      0.942      0.625
+[17:03:29] Training running... epoch 55 done. Last:                    all         96        374      0.773      0.936      0.942      0.625
+[17:04:29] Training running... epoch 56 done. Last:                    all         96        374      0.795      0.908      0.947       0.63
+[17:05:29] Training running... epoch 57 done. Last:                    all         96        374      0.881      0.872      0.949       0.65
+[17:06:29] Training running... epoch 58 done. Last:                    all         96        374      0.903       0.88      0.957      0.638
+[17:07:29] Training running... epoch 59 done. Last:                    all         96        374      0.824      0.896      0.956      0.646
+[17:08:29] Training running... epoch 59 done. Last:                    all         96        374      0.824      0.896      0.956      0.646
+[17:09:29] Training running... epoch 60 done. Last:                    all         96        374      0.812      0.921      0.949      0.644
+[17:10:29] Training running... epoch 61 done. Last:                    all         96        374      0.838      0.917      0.952      0.645
+[17:11:29] Training running... epoch 62 done. Last:                    all         96        374      0.832      0.911      0.957      0.656
+[17:12:29] Training running... epoch 62 done. Last:                    all         96        374      0.832      0.911      0.957      0.656
+[17:13:29] Training running... epoch 63 done. Last:                    all         96        374      0.799      0.939      0.957      0.656
+[17:14:29] Training running... epoch 64 done. Last:                    all         96        374       0.83      0.926      0.957      0.655
+[17:15:29] Training running... epoch 65 done. Last:                    all         96        374      0.814       0.93      0.946      0.646
+[17:16:29] Training running... epoch 66 done. Last:                    all         96        374      0.815      0.919       0.95      0.658
+[17:17:29] Training running... epoch 66 done. Last:                    all         96        374      0.815      0.919       0.95      0.658
+[17:18:30] Training running... epoch 67 done. Last:                    all         96        374       0.82       0.95      0.962      0.664
+[17:19:30] Training running... epoch 68 done. Last:                    all         96        374      0.876       0.87      0.955      0.663
+[17:20:30] Training running... epoch 69 done. Last:                    all         96        374      0.859       0.91      0.944      0.642
+[17:21:30] Training running... epoch 69 done. Last:                    all         96        374      0.859       0.91      0.944      0.642
+[17:22:30] Training running... epoch 70 done. Last:                    all         96        374      0.801       0.94      0.959      0.659
+[17:23:30] Training running... epoch 71 done. Last:                    all         96        374      0.882       0.88      0.954      0.642
+[17:24:30] Training running... epoch 72 done. Last:                    all         96        374      0.865      0.914       0.95      0.649
+[17:25:30] Training running... epoch 72 done. Last:                    all         96        374      0.865      0.914       0.95      0.649
+[17:26:30] Training running... epoch 73 done. Last:                    all         96        374      0.844      0.886      0.945      0.656
+[17:27:30] Training running... epoch 74 done. Last:                    all         96        374      0.773      0.931      0.943      0.662
+[17:28:30] Training running... epoch 75 done. Last:                    all         96        374       0.83       0.94      0.956      0.659
+[17:29:30] Training running... epoch 76 done. Last:                    all         96        374      0.851      0.911      0.956      0.663
+[17:30:30] Training running... epoch 76 done. Last:                    all         96        374      0.851      0.911      0.956      0.663
+[17:31:30] Training running... epoch 77 done. Last:                    all         96        374      0.802      0.938      0.957      0.664
+[17:32:30] Training running... epoch 78 done. Last:                    all         96        374      0.872      0.885      0.962      0.669
+[17:33:30] Training running... epoch 79 done. Last:                    all         96        374      0.866      0.927      0.966      0.661
+[17:34:30] Training running... epoch 79 done. Last:                    all         96        374      0.866      0.927      0.966      0.661
+[17:35:30] Training running... epoch 80 done. Last:                    all         96        374      0.809      0.945      0.961      0.669
+[17:36:30] Training running... epoch 81 done. Last:                    all         96        374      0.904      0.907      0.965      0.671
+[17:37:30] Training running... epoch 82 done. Last:                    all         96        374       0.83      0.932      0.964      0.675
+[17:38:30] Training running... epoch 82 done. Last:                    all         96        374       0.83      0.932      0.964      0.675
+[17:39:30] Training running... epoch 83 done. Last:                    all         96        374       0.82      0.954      0.963      0.664
+[17:40:30] Training running... epoch 84 done. Last:                    all         96        374      0.873      0.936      0.967      0.681
+[17:41:30] Training running... epoch 85 done. Last:                    all         96        374      0.805      0.951      0.965       0.68
+[17:42:30] Training running... epoch 86 done. Last:                    all         96        374      0.885      0.924      0.974      0.681
+[17:43:30] Training running... epoch 86 done. Last:                    all         96        374      0.885      0.924      0.974      0.681
+[17:44:30] Training running... epoch 87 done. Last:                    all         96        374      0.893      0.909      0.967      0.685
+[17:45:30] Training running... epoch 88 done. Last:                    all         96        374      0.877      0.929      0.964      0.684
+[17:46:30] Training running... epoch 89 done. Last:                    all         96        374       0.86      0.944       0.97      0.686
+[17:47:30] Training running... epoch 89 done. Last:                    all         96        374       0.86      0.944       0.97      0.686
+[17:48:30] Training running... epoch 90 done. Last:                    all         96        374      0.841      0.943      0.969      0.688
+[17:49:30] Training running... epoch 91 done. Last:                    all         96        374      0.859      0.903       0.97      0.697
+[17:50:30] Training running... epoch 92 done. Last:                    all         96        374      0.863       0.95      0.964      0.682
+[17:51:30] Training running... epoch 92 done. Last:                    all         96        374      0.863       0.95      0.964      0.682
+[17:52:30] Training running... epoch 93 done. Last:                    all         96        374      0.855      0.935      0.965      0.682
+[17:53:30] Training running... epoch 94 done. Last:                    all         96        374       0.91       0.92      0.964      0.684
+[17:54:30] Training running... epoch 95 done. Last:                    all         96        374      0.895      0.931      0.963      0.691
+[17:55:31] Training running... epoch 95 done. Last:                    all         96        374      0.895      0.931      0.963      0.691
+[17:56:31] Training running... epoch 96 done. Last:                    all         96        374      0.863       0.94      0.965      0.694
+[17:57:31] Training running... epoch 97 done. Last:                    all         96        374      0.845      0.966      0.967      0.688
+[17:58:31] Training running... epoch 98 done. Last:                    all         96        374      0.909      0.917      0.965      0.694
+[17:59:31] Training running... epoch 99 done. Last:                    all         96        374      0.884      0.924      0.965      0.694
+[18:00:31] Training running... epoch 99 done. Last:                    all         96        374      0.884      0.924      0.965      0.694
+[18:01:31] Training running... epoch 100 done. Last:                    all         96        374      0.879      0.943      0.963      0.687
+[18:02:31] Training running... epoch 101 done. Last:                    all         96        374      0.847      0.962      0.965      0.688
+[18:03:31] Training running... epoch 102 done. Last:                    all         96        374      0.888      0.944      0.966      0.693
+[18:04:31] Training running... epoch 102 done. Last:                    all         96        374      0.888      0.944      0.966      0.693
+[18:05:31] Training running... epoch 103 done. Last:                    all         96        374      0.862      0.943      0.965      0.698
+[18:06:31] Training running... epoch 104 done. Last:                    all         96        374      0.918      0.917      0.963      0.698
+[18:07:31] Training running... epoch 105 done. Last:                    all         96        374      0.893      0.952      0.966      0.697
+[18:08:31] Training running... epoch 105 done. Last:                    all         96        374      0.893      0.952      0.966      0.697
+[18:09:31] Training running... epoch 106 done. Last:                    all         96        374      0.863      0.951      0.962      0.686
+[18:10:31] Training running... epoch 107 done. Last:                    all         96        374      0.859      0.964      0.966      0.699
+[18:11:31] Training running... epoch 108 done. Last:                    all         96        374      0.858       0.96      0.967      0.698
+[18:12:31] Training running... epoch 109 done. Last:                    all         96        374      0.855      0.966      0.972        0.7
+[18:13:31] Training running... epoch 109 done. Last:                    all         96        374      0.855      0.966      0.972        0.7
+[18:14:31] Training running... epoch 110 done. Last:                    all         96        374      0.864      0.948       0.97      0.693
+[18:15:31] Training running... epoch 111 done. Last:                    all         96        374      0.862      0.958      0.968      0.702
+[18:16:31] Training running... epoch 112 done. Last:                    all         96        374      0.862       0.96      0.974      0.697
+[18:17:31] Training running... epoch 112 done. Last:                    all         96        374      0.862       0.96      0.974      0.697
+[18:18:31] Training running... epoch 113 done. Last:                    all         96        374      0.862      0.966      0.972      0.704
+[18:19:31] Training running... epoch 114 done. Last:                    all         96        374      0.886       0.95      0.968      0.701
+[18:20:31] Training running... epoch 115 done. Last:                    all         96        374      0.912       0.94       0.97      0.702
+[18:21:31] Training running... epoch 115 done. Last:                    all         96        374      0.912       0.94       0.97      0.702
+[18:22:31] Training running... epoch 116 done. Last:                    all         96        374      0.894      0.955      0.968      0.707
+[18:23:31] Training running... epoch 117 done. Last:                    all         96        374       0.89      0.955      0.966      0.701
+[18:24:31] Training running... epoch 118 done. Last:                    all         96        374      0.884      0.946      0.965        0.7
+[18:25:31] Training running... epoch 118 done. Last:                    all         96        374      0.884      0.946      0.965        0.7
+[18:26:31] Training running... epoch 119 done. Last:                    all         96        374      0.886      0.938      0.965      0.709
+[18:27:31] Training running... epoch 120 done. Last:                    all         96        374      0.875      0.954      0.969      0.705
+[18:28:31] Training running... epoch 121 done. Last:                    all         96        374      0.868      0.952      0.965      0.708
+[18:29:31] Training running... epoch 122 done. Last:                    all         96        374      0.921      0.912      0.965      0.706
+[18:30:31] Training running... epoch 122 done. Last:                    all         96        374      0.921      0.912      0.965      0.706
+[18:31:31] Training running... epoch 123 done. Last:                    all         96        374      0.906      0.918      0.968      0.707
+[18:32:31] Training running... epoch 124 done. Last:                    all         96        374      0.913      0.932      0.973      0.709
+[18:33:31] Training running... epoch 125 done. Last:                    all         96        374      0.881      0.951      0.973      0.708
+[18:34:31] Training running... epoch 125 done. Last:                    all         96        374      0.881      0.951      0.973      0.708
+[18:35:32] Training running... epoch 126 done. Last:                    all         96        374      0.875      0.965       0.97      0.709
+[18:36:32] Training running... epoch 127 done. Last:                    all         96        374      0.882      0.965       0.97      0.711
+[18:37:32] Training running... epoch 128 done. Last:                    all         96        374      0.888      0.965      0.973      0.714
+[18:38:32] Training running... epoch 128 done. Last:                    all         96        374      0.888      0.965      0.973      0.714
+[18:39:32] Training running... epoch 129 done. Last:                    all         96        374      0.894      0.958      0.968      0.713
+[18:40:32] Training running... epoch 130 done. Last:                    all         96        374      0.883       0.96      0.967      0.709
+[18:41:32] Training running... epoch 131 done. Last:                    all         96        374       0.88      0.962      0.964      0.705
+[18:42:32] Training running... epoch 132 done. Last:                    all         96        374      0.903       0.94      0.964      0.713
+[18:43:32] Training running... epoch 132 done. Last:                    all         96        374      0.903       0.94      0.964      0.713
+[18:44:32] Training running... epoch 133 done. Last:                    all         96        374      0.904      0.937      0.964      0.711
+[18:45:32] Training running... epoch 134 done. Last:                    all         96        374      0.877      0.963      0.964      0.711
+[18:46:32] Training running... epoch 135 done. Last:                    all         96        374      0.895      0.946      0.964       0.71
+[18:47:32] Training running... epoch 135 done. Last:                    all         96        374      0.895      0.946      0.964       0.71
+[18:48:32] Training running... epoch 136 done. Last:                    all         96        374      0.923      0.918      0.965      0.704
+[18:49:32] Training running... epoch 137 done. Last:                    all         96        374      0.917      0.919      0.964        0.7
+[18:50:32] Training running... epoch 138 done. Last:                    all         96        374      0.917      0.915      0.964      0.703
+[18:51:32] Training running... epoch 139 done. Last:                    all         96        374      0.915      0.919      0.965      0.704
+[18:52:32] Training running... epoch 139 done. Last:                    all         96        374      0.915      0.919      0.965      0.704
+[18:53:32] Training running... epoch 140 done. Last:                    all         96        374      0.919      0.916      0.965      0.702
+[18:54:32] Training running... epoch 141 done. Last:                    all         96        374      0.917      0.915      0.963      0.704
+[18:55:32] Training running... epoch 142 done. Last:                    all         96        374      0.922      0.918      0.965      0.702
+[18:56:32] Training running... epoch 144 done. Last:                    all         96        374      0.924      0.914      0.965      0.703
+[18:57:32] Training running... epoch 145 done. Last:                    all         96        374      0.927      0.911      0.965      0.708
+[18:58:32] Training running... epoch 147 done. Last:                    all         96        374      0.925      0.915      0.965      0.707
+[18:59:32] Training running... epoch 148 done. Last:                    all         96        374      0.928      0.915      0.965      0.707
+[19:00:32] Training running... epoch 153 done. Last:                    all         35        145      0.804      0.789      0.855      0.592
+
+=====================================
+Training complete! Starting ensemble evaluation...
+=====================================
+GPU: NVIDIA GeForce RTX 3090
+Test images: 35, Classes: 76
+YOLO12x_strat: /mnt/Data/AKIB/YOLO-OD-IM/runs/yolo12x_stratified/weights/best.pt
+YOLO12l:       /mnt/Data/AKIB/YOLO-OD-IM/runs/yolo12l_ensemble/weights/best.pt
+
+================================================================================
+📊 PHASE 1: SINGLE MODEL EVALUATION (YOLO12x Stratified)
+================================================================================
+  conf=0.05 → P=0.5019  R=0.8966  F1=0.6436  TP=130 FP=129 FN=15
+  conf=0.10 → P=0.5427  R=0.8759  F1=0.6702  TP=127 FP=107 FN=18
+  conf=0.15 → P=0.5826  R=0.8759  F1=0.6997  TP=127 FP=91 FN=18
+  conf=0.20 → P=0.6077  R=0.8759  F1=0.7175  TP=127 FP=82 FN=18
+  conf=0.25 → P=0.6231  R=0.8552  F1=0.7209  TP=124 FP=75 FN=21
+  conf=0.30 → P=0.6406  R=0.8483  F1=0.7300  TP=123 FP=69 FN=22
+  conf=0.35 → P=0.6649  R=0.8483  F1=0.7455  TP=123 FP=62 FN=22
+  conf=0.40 → P=0.6721  R=0.8483  F1=0.7500  TP=123 FP=60 FN=22
+
+  With TTA:
+  TTA conf=0.05 → P=0.4545  R=0.9310  F1=0.6109  TP=135 FP=162 FN=10
+  TTA conf=0.10 → P=0.5154  R=0.9241  F1=0.6617  TP=134 FP=126 FN=11
+  TTA conf=0.15 → P=0.5407  R=0.9172  F1=0.6803  TP=133 FP=113 FN=12
+  TTA conf=0.20 → P=0.5739  R=0.9103  F1=0.7040  TP=132 FP=98 FN=13
+  TTA conf=0.25 → P=0.6000  R=0.9103  F1=0.7233  TP=132 FP=88 FN=13
+
+================================================================================
+📦 PHASE 2: COLLECTING RAW PREDICTIONS (conf=0.01)
+================================================================================
+  YOLO12x_strat TTA...
+  YOLO12x_strat NO-TTA...
+  YOLO12l TTA...
+  YOLO12l NO-TTA...
+  ⏱️  Prediction collection: 4.6s
+  12x_strat TTA: avg 17.3 detections/image
+  12x_strat noTTA: avg 12.1 detections/image
+  12l TTA: avg 18.8 detections/image
+  12l noTTA: avg 14.5 detections/image
+
+================================================================================
+🔥 PHASE 3: WBF ENSEMBLE SWEEP (2-model: YOLO12x_strat + YOLO12l)
+================================================================================
+  Total WBF configs: 1080
+  Conf threshold sweep: 0.20 to 0.55 step 0.01 (36 steps)
+  Total evaluations: 38880
+  [50/1080] 73s elapsed, ~1512s remaining
+  🎯 Current best target: P=0.8224 R=0.8621 F1=0.8418
+  📊 Current best F1:     P=0.8224 R=0.8621 F1=0.8418
+  [100/1080] 146s elapsed, ~1435s remaining
+  🎯 Current best target: P=0.8224 R=0.8621 F1=0.8418
+  📊 Current best F1:     P=0.8224 R=0.8621 F1=0.8418
+  [150/1080] 219s elapsed, ~1360s remaining
+  🎯 Current best target: P=0.8224 R=0.8621 F1=0.8418
+  📊 Current best F1:     P=0.8224 R=0.8621 F1=0.8418
+  [200/1080] 292s elapsed, ~1286s remaining
+  🎯 Current best target: P=0.8194 R=0.8759 F1=0.8467
+  📊 Current best F1:     P=0.8194 R=0.8759 F1=0.8467
+  [250/1080] 365s elapsed, ~1213s remaining
+  🎯 Current best target: P=0.8194 R=0.8759 F1=0.8467
+  📊 Current best F1:     P=0.8194 R=0.8759 F1=0.8467
+  [300/1080] 439s elapsed, ~1141s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [350/1080] 512s elapsed, ~1068s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [400/1080] 585s elapsed, ~994s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [450/1080] 658s elapsed, ~921s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [500/1080] 731s elapsed, ~848s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [550/1080] 804s elapsed, ~775s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [600/1080] 877s elapsed, ~702s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [650/1080] 950s elapsed, ~628s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [700/1080] 1023s elapsed, ~555s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [750/1080] 1096s elapsed, ~482s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [800/1080] 1169s elapsed, ~409s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [850/1080] 1242s elapsed, ~336s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [900/1080] 1314s elapsed, ~263s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [950/1080] 1388s elapsed, ~190s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [1000/1080] 1461s elapsed, ~117s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+  [1050/1080] 1533s elapsed, ~44s remaining
+  🎯 Current best target: P=0.8247 R=0.8759 F1=0.8495
+  📊 Current best F1:     P=0.8247 R=0.8759 F1=0.8495
+
+  ⏱️  Ensemble sweep: 1577.3s (26.3min)
+
+================================================================================
+🏆 FINAL RESULTS: STRATIFIED 2-MODEL ENSEMBLE
+================================================================================
+
+📊 SINGLE MODEL (YOLO12x Stratified):
+  Config                          P       R      F1    TP    FP    FN
+  -----------------------------------------------------------------
+  conf=0.05                  0.5019  0.8966  0.6436   130   129    15
+  conf=0.10                  0.5427  0.8759  0.6702   127   107    18
+  conf=0.15                  0.5826  0.8759  0.6997   127    91    18
+  conf=0.20                  0.6077  0.8759  0.7175   127    82    18
+  conf=0.25                  0.6231  0.8552  0.7209   124    75    21
+  conf=0.30                  0.6406  0.8483  0.7300   123    69    22
+  conf=0.35                  0.6649  0.8483  0.7455   123    62    22
+  conf=0.40                  0.6721  0.8483  0.7500   123    60    22
+  TTA_conf=0.05              0.4545  0.9310  0.6109   135   162    10
+  TTA_conf=0.10              0.5154  0.9241  0.6617   134   126    11
+  TTA_conf=0.15              0.5407  0.9172  0.6803   133   113    12
+  TTA_conf=0.20              0.5739  0.9103  0.7040   132    98    13
+  TTA_conf=0.25              0.6000  0.9103  0.7233   132    88    13
+
+📊 ENSEMBLE — Best F1 Overall:
+  Config: mixTTA_w=3.5/1.5_iou=0.6_sk=0.01_avg_conf=0.55
+  P=0.8247  R=0.8759  F1=0.8495
+  TP=127  FP=27  FN=18
+
+🎯 CONFIGS MEETING TARGET (P≥0.76 AND R≥0.85): 240 found!
+  Config                                                                       P       R      F1
+  ------------------------------------------------------------------------------------------
+  mixTTA_w=3.5/1.5_iou=0.6_sk=0.01_avg_conf=0.55                          0.8247  0.8759  0.8495
+  mixTTA_w=3.5/1.5_iou=0.6_sk=0.1_avg_conf=0.55                           0.8153  0.8828  0.8477
+  mixTTA_w=3.5/1.5_iou=0.4_sk=0.1_avg_conf=0.55                           0.8194  0.8759  0.8467
+  mixTTA_w=3.5/1.5_iou=0.45_sk=0.1_avg_conf=0.55                          0.8194  0.8759  0.8467
+  mixTTA_w=3.5/1.5_iou=0.6_sk=0.05_avg_conf=0.55                          0.8194  0.8759  0.8467
+  mixTTA_w=3.5/1.5_iou=0.55_sk=0.01_avg_conf=0.55                         0.8235  0.8690  0.8456
+  mixTTA_w=3.5/1.5_iou=0.4_sk=0.05_avg_conf=0.55                          0.8278  0.8621  0.8446
+  mixTTA_w=3.5/1.5_iou=0.5_sk=0.05_avg_conf=0.55                          0.8182  0.8690  0.8428
+  mixTTA_w=3.5/1.5_iou=0.55_sk=0.05_avg_conf=0.55                         0.8182  0.8690  0.8428
+  TTA_w=3.0/2.0_iou=0.4_sk=0.1_avg_conf=0.55                              0.8224  0.8621  0.8418
+  TTA_w=3.0/2.0_iou=0.6_sk=0.05_avg_conf=0.55                             0.8224  0.8621  0.8418
+  mixTTA_w=3.5/1.5_iou=0.45_sk=0.05_avg_conf=0.55                         0.8224  0.8621  0.8418
+  mixTTA_w=3.5/1.5_iou=0.5_sk=0.1_avg_conf=0.55                           0.8089  0.8759  0.8411
+  mixTTA_w=3.5/1.5_iou=0.55_sk=0.1_avg_conf=0.55                          0.8089  0.8759  0.8411
+  TTA_w=3.0/2.0_iou=0.6_sk=0.1_avg_conf=0.55                              0.8129  0.8690  0.8400
+  TTA_w=3.0/2.0_iou=0.45_sk=0.1_avg_conf=0.55                             0.8170  0.8621  0.8389
+  mixTTA_w=4.0/1.5_iou=0.6_sk=0.01_avg_conf=0.55                          0.8038  0.8759  0.8383
+  TTA_w=3.0/2.0_iou=0.5_sk=0.05_avg_conf=0.55                             0.8212  0.8552  0.8378
+  TTA_w=3.0/2.0_iou=0.55_sk=0.05_avg_conf=0.55                            0.8212  0.8552  0.8378
+  TTA_w=3.0/2.0_iou=0.6_sk=0.01_avg_conf=0.55                             0.8212  0.8552  0.8378
+  mixTTA_w=3.0/1.5_iou=0.4_sk=0.1_avg_conf=0.55                           0.8212  0.8552  0.8378
+  mixTTA_w=3.5/1.5_iou=0.5_sk=0.01_avg_conf=0.55                          0.8212  0.8552  0.8378
+  mixTTA_w=2.0/1.0_iou=0.4_sk=0.1_avg_conf=0.55                           0.8212  0.8552  0.8378
+  mixTTA_w=4.0/1.5_iou=0.6_sk=0.1_avg_conf=0.55                           0.7950  0.8828  0.8366
+  TTA_w=3.0/2.0_iou=0.5_sk=0.1_avg_conf=0.55                              0.8117  0.8621  0.8361
+
+  ★ BEST: mixTTA_w=3.5/1.5_iou=0.6_sk=0.01_avg_conf=0.55
+    P=0.8247  R=0.8759  F1=0.8495  TP=127 FP=27 FN=18
+
+📊 Top 20 closest to P≥0.76, R≥0.85 (by F1, where P≥0.72 and R≥0.80):
+  mixTTA_w=3.5/1.5_iou=0.6_sk=0.01_avg_conf=0.55                          0.8247  0.8759  0.8495 🎯
+  mixTTA_w=3.5/1.5_iou=0.6_sk=0.1_avg_conf=0.55                           0.8153  0.8828  0.8477 🎯
+  mixTTA_w=3.5/1.5_iou=0.4_sk=0.1_avg_conf=0.55                           0.8194  0.8759  0.8467 🎯
+  mixTTA_w=3.5/1.5_iou=0.45_sk=0.1_avg_conf=0.55                          0.8194  0.8759  0.8467 🎯
+  mixTTA_w=3.5/1.5_iou=0.6_sk=0.05_avg_conf=0.55                          0.8194  0.8759  0.8467 🎯
+  mixTTA_w=3.5/1.5_iou=0.55_sk=0.01_avg_conf=0.55                         0.8235  0.8690  0.8456 🎯
+  mixTTA_w=3.5/1.5_iou=0.4_sk=0.05_avg_conf=0.55                          0.8278  0.8621  0.8446 🎯
+  mixTTA_w=3.5/1.5_iou=0.5_sk=0.05_avg_conf=0.55                          0.8182  0.8690  0.8428 🎯
+  mixTTA_w=3.5/1.5_iou=0.55_sk=0.05_avg_conf=0.55                         0.8182  0.8690  0.8428 🎯
+  TTA_w=3.0/2.0_iou=0.4_sk=0.1_avg_conf=0.55                              0.8224  0.8621  0.8418 🎯
+  TTA_w=3.0/2.0_iou=0.6_sk=0.05_avg_conf=0.55                             0.8224  0.8621  0.8418 🎯
+  mixTTA_w=3.5/1.5_iou=0.45_sk=0.05_avg_conf=0.55                         0.8224  0.8621  0.8418 🎯
+  mixTTA_w=3.5/1.5_iou=0.5_sk=0.1_avg_conf=0.55                           0.8089  0.8759  0.8411 🎯
+  mixTTA_w=3.5/1.5_iou=0.55_sk=0.1_avg_conf=0.55                          0.8089  0.8759  0.8411 🎯
+  TTA_w=3.0/2.0_iou=0.6_sk=0.1_avg_conf=0.55                              0.8129  0.8690  0.8400 🎯
+  TTA_w=3.0/2.0_iou=0.45_sk=0.1_avg_conf=0.55                             0.8170  0.8621  0.8389 🎯
+  mixTTA_w=4.0/1.5_iou=0.6_sk=0.01_avg_conf=0.55                          0.8038  0.8759  0.8383 🎯
+  TTA_w=3.0/2.0_iou=0.5_sk=0.05_avg_conf=0.55                             0.8212  0.8552  0.8378 🎯
+  TTA_w=3.0/2.0_iou=0.55_sk=0.05_avg_conf=0.55                            0.8212  0.8552  0.8378 🎯
+  TTA_w=3.0/2.0_iou=0.6_sk=0.01_avg_conf=0.55                             0.8212  0.8552  0.8378 🎯
+
+📊 Top 10 by Recall (where P≥0.72):
+  mixTTA_w=3.0/1.5_iou=0.6_sk=0.01_avg_conf=0.51                          0.7232  0.8828  0.7950 ✅R
+  mixTTA_w=3.0/1.5_iou=0.6_sk=0.01_avg_conf=0.52                          0.7485  0.8828  0.8101 ✅R
+  mixTTA_w=3.0/1.5_iou=0.6_sk=0.01_avg_conf=0.53                          0.7805  0.8828  0.8285 🎯
+  TTA_w=3.0/1.5_iou=0.6_sk=0.05_avg_conf=0.53                             0.7273  0.8828  0.7975 ✅R
+  mixTTA_w=3.0/1.5_iou=0.6_sk=0.05_avg_conf=0.52                          0.7399  0.8828  0.8050 ✅R
+  TTA_w=3.0/1.5_iou=0.6_sk=0.1_avg_conf=0.53                              0.7232  0.8828  0.7950 ✅R
+  mixTTA_w=3.0/1.5_iou=0.6_sk=0.1_avg_conf=0.52                           0.7356  0.8828  0.8025 ✅R
+  mixTTA_w=3.5/1.5_iou=0.6_sk=0.01_avg_conf=0.52                          0.7356  0.8828  0.8025 ✅R
+  mixTTA_w=3.5/1.5_iou=0.6_sk=0.01_avg_conf=0.53                          0.7665  0.8828  0.8205 🎯
+  mixTTA_w=3.5/1.5_iou=0.6_sk=0.05_avg_conf=0.52                          0.7273  0.8828  0.7975 ✅R
+
+================================================================================
+📋 COMPARISON: Stratified vs Original Split
+================================================================================
+  Metric                                     Original Stratified    Delta
+  ----------------------------------------------------------------------
+  Single Model P                                     0.6904     0.5427  -0.1477
+  Single Model R                                     0.8317     0.8759  +0.0442
+  Single Model F1                                    0.7545     0.6702  -0.0843
+  Ensemble (target-met) P                             0.7716     0.8247  +0.0531
+  Ensemble (target-met) R                             0.8621     0.8759  +0.0138
+  Ensemble (target-met) F1                            0.8143     0.8495  +0.0352
+  Ensemble (best F1) P                                0.7716     0.8247  +0.0531
+  Ensemble (best F1) R                                0.8621     0.8759  +0.0138
+  Ensemble (best F1) F1                               0.8143     0.8495  +0.0352
+
+✅ Saved results: stratified_ensemble_results.json (38880 configs)
+🏁 Done!

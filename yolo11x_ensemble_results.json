@@ -1,0 +1,50 @@
+{
+  "yolo11x_single": {},
+  "ensemble_3model_best_f1": {
+    "weights": [
+      2.0,
+      1.0,
+      2.0
+    ],
+    "tta": [
+      "tta",
+      "tta",
+      "tta"
+    ],
+    "iou_thr": 0.4,
+    "skip_thr": 0.05,
+    "conf_type": "avg",
+    "conf_thr": 0.49,
+    "precision": 0.8108,
+    "recall": 0.8276,
+    "f1": 0.8191
+  },
+  "ensemble_3model_best_target": null,
+  "total_configs_evaluated": 11760,
+  "comparison": {
+    "2model_best": {
+      "P": 0.7716,
+      "R": 0.8621,
+      "F1": 0.8143
+    },
+    "3model_best": {
+      "weights": [
+        2.0,
+        1.0,
+        2.0
+      ],
+      "tta": [
+        "tta",
+        "tta",
+        "tta"
+      ],
+      "iou_thr": 0.4,
+      "skip_thr": 0.05,
+      "conf_type": "avg",
+      "conf_thr": 0.49,
+      "precision": 0.8108,
+      "recall": 0.8276,
+      "f1": 0.8191
+    }
+  }
+}
